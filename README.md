@@ -1,4 +1,4 @@
-#Optimization in Public Transport
+# Optimization in Public Transport
 
 This repository contains a Jupyter notebook (`optimization.ipynb`) that illustrates five core optimization problems in public-transport planning using Gurobi:
 
